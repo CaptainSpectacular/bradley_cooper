@@ -1,0 +1,90 @@
+body{
+  background-color: red;
+}
+.main_image{
+  float: right;
+  width: 500px;
+  height: 700px;
+  display: flex;
+}
+
+.prop1 {
+
+  width: 200px;
+  height: 233px;
+
+  float: right;
+}
+
+.blog{
+  float:right;
+}
+
+.prop2{
+  width: 200px;
+  height: 233px;
+  display: flex;
+  float:right;
+  margin-top: 19%;
+  position: absolute;
+}
+
+.portfolio{
+  float:right
+}
+
+.prop3{
+  width: 200px;
+  height: 240px;
+  display: flex;
+  float:right;
+  position: absolute;
+  margin-top: 38%;
+}
+
+.name{
+  float: left
+}
+
+.prop4{
+  width: 494px;
+  height: 230px;
+  display: flex;
+  float:left;
+  position: absolute;
+}
+
+.education{
+  float:right;
+  margin-top: 19%;
+  height: 233px;
+
+}
+
+.prop5{
+  width: 200px;
+  height: 233px;
+  display: flex;
+  float:right;
+}
+
+.prop6{
+  width: 294px;
+  height: 230px;
+  display: flex;
+  margin-top: 19%;
+  float:left;
+  position: absolute;
+}
+
+.prop7{
+  height: 233px;
+  width: 294px;
+  float: right;
+  margin-top: 38%;
+  position: absolute;
+}
+
+.prop8{
+ 
+}
